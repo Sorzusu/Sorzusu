@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sorzus-michael
+- 👋 Hi, I’m Michael
 - 👀 I’m interested in hacking (ethical of course) and music production
-- 🌱 I’m currently learning perl and pascal delphi
+- 🌱 I’m currently learning perl and pascal delphi, i know : c++ asm c# java html sql php and    python
 - 📫 How to reach me : discord: sorzus_ twitter: https://twitter.com/3000Troller
 
 <!---
