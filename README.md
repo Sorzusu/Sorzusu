@@ -1,3 +1,3 @@
 - 👋 Hi
--  I’m interested in hacking (ethical of course), synthesizers, astronomy, analog electronics, amateur radio, mathematics, and quantum physics
+-  I’m interested in hacking (ethical of course), synthesizers, astronomy, analog electronics, amateur radio, mathematics, organic chemistry, toxicology, and quantum physics
 -  I’m currently learning Perl and, I know : C++ x86-ASM C# Java HTML SQL PHP some Haskell and Python and Pascal
