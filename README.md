@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Sorzus's github !</h1>
-<h3 align="center">A guy who loves challenges,</h3>
+<h3 align="center">I do the stuff people are too lazy to do </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sorzusu&label=Profile%20views&color=400080&style=plastic" alt="sorzusu" /> </p>
 
