@@ -1,17 +1,15 @@
-<h1 align="center">I'm Sorzus !</h1>
-<h3 align="center">A guy who loves challenges</h3>
+<h1 align="center">Welcome to Sorzus's github !</h1>
+<h3 align="center">A guy who loves challenges,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sorzusu&label=Profile%20views&color=400080&style=plastic" alt="sorzusu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sorzusu" alt="sorzusu" /></a> </p>
-
 - 🔭 I’m currently working on **SharpShell**
 
--  I’m currently learning **Perl**
+- 🌱 I’m currently learning **Perl**
 
-- 💬 Ask me about **Anything, literally anything**
+- 💬 Ask me about **InfoSec, synthesizers, astronomy, analog electronics, amateur radio, mathematics, organic chemistry, toxicology, amateur rocketry, and quantum physics**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me on instagram:</h3>
 <p align="left">
 <a href="https://instagram.com/sorzus.xz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sorzus.xz" height="30" width="40" /></a>
 </p>
