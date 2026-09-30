@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Perl**
 
-- 💬 Ask me about **InfoSec, synthesizers, astronomy, analog electronics, amateur radio, mathematics, organic chemistry, toxicology, amateur rocketry, and quantum physics**
+- 💬 Ask me about **InfoSec, synthesizers, astronomy, analog electronics, amateur radio, mathematics, organic chemistry, toxicology, art, amateur rocketry, and quantum physics**
 
 <h3 align="left">Contact me on instagram:</h3>
 <p align="left">
